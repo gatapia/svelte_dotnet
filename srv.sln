@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srv", "srv/srv.csproj", "{09CB3CA0-B6DD-4515-AF15-16442FC7F495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srv-tests", "srv-tests\srv-tests.csproj", "{D7A48E2B-9E62-4DC3-9EAC-228EBB60CE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CB3CA0-B6DD-4515-AF15-16442FC7F495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CB3CA0-B6DD-4515-AF15-16442FC7F495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CB3CA0-B6DD-4515-AF15-16442FC7F495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CB3CA0-B6DD-4515-AF15-16442FC7F495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A48E2B-9E62-4DC3-9EAC-228EBB60CE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A48E2B-9E62-4DC3-9EAC-228EBB60CE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A48E2B-9E62-4DC3-9EAC-228EBB60CE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A48E2B-9E62-4DC3-9EAC-228EBB60CE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
