@@ -6,7 +6,7 @@ This project is a bare-bones project template to quickly get started with the fo
 - Carbon Design System 
 - C# / .Net 6.0
 - NUnit
-- IIS Hosted (requires [IIS URL Rewrite Module](https://www.iis.net/downloads/microsoft/url-rewrite)
+- IIS Hosted (requires [IIS URL Rewrite Module](https://www.iis.net/downloads/microsoft/url-rewrite))
 
 # Getting Started
 - Clone this repository: `git clone https://github.com/gatapia/svelte_dotnet_template.git`

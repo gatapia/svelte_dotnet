@@ -1,6 +1,4 @@
-﻿using System.Dynamic;
-
-namespace srv.Controllers;
+﻿namespace srv.Controllers;
 
 public class DemoController {
   public DemoResponse GetDemoResponse() {
