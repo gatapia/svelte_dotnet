@@ -1,4 +1,4 @@
-﻿import { dev } from '$app/env';
+﻿import { dev } from '$app/environment';
 
 export class Server {
   static async get(endpoint: string): Promise<any> {
