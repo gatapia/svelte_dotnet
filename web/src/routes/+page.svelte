@@ -1,11 +1,11 @@
 <script lang="ts">
   import {Content, Grid, Row, Column} from "carbon-components-svelte";
-	import {Server} from '$lib/server';
+	import {ApiServer} from '$lib/apiserver';
 
   let label: string = '';
 
   async function ping() {
-    const res = await Server.get('demo');
+    const res = await ApiServer.get('demo');
     label = res.result;
   }
 </script>

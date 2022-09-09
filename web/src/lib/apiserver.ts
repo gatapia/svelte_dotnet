@@ -1,6 +1,6 @@
 ﻿import { dev } from '$app/environment';
 
-export class Server {
+export class ApiServer {
   static async get(endpoint: string): Promise<any> {
     const response = await fetch(this.uri(endpoint));
     const data = await response.json();

@@ -8,9 +8,7 @@ const config = {
   preprocess: [autoPreprocess(), optimizeImports()],
   kit: {
     adapter: adapter({ fallback: 'index.html' }),
-    paths: { base: dev ? '' : '/test_template' },
-    methodOverride: { allowed: ['PATCH', 'DELETE'] },
-    prerender: { default: false }
+    paths: { base: dev ? '' : '/test_template' }
   }
 };
 

@@ -10,20 +10,20 @@
     "check:watch": "svelte-check --tsconfig ./tsconfig.json --watch"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "1.0.0-next.39",
-    "@sveltejs/kit": "1.0.0-next.449",
+    "@sveltejs/adapter-static": "1.0.0-next.42",
+    "@sveltejs/kit": "1.0.0-next.478",
     "@types/cookie": "0.5.1",
-    "carbon-components-svelte": "0.70.2",
+    "carbon-components-svelte": "0.70.6",
     "carbon-icons-svelte": "11.2.0",
     "carbon-preprocess-svelte": "0.9.1",
-    "node-sass": "7.0.1",
-    "sass": "1.54.5",
-    "svelte": "3.49.0",
+    "node-sass": "7.0.3",
+    "sass": "1.54.9",
+    "svelte": "3.50.1",
     "svelte-check": "2.9.0",
     "svelte-preprocess": "4.10.7",
     "tslib": "2.4.0",
-    "typescript": "4.8.2",
-    "vite": "3.0.9"
+    "typescript": "4.8.3",
+    "vite": "3.1.0"
   },
   "type": "module",
   "dependencies": {
